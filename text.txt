@@ -1,3 +1,5 @@
 And this is another commit!
 
+Added file
+
 And here we go with commit #2!
